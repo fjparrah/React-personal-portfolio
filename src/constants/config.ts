@@ -65,8 +65,8 @@ export const config: TConfig = {
   },
   sections: {
     about: {
-      p: "Introducción",
-      h2: "Overview.",
+      p: "",
+      h2: "Introducción",
       content: `Soy un desarrollador de software con experiencia en Python,
       JavaScript y experiencia en frameworks como React, Node.js y
       Aprendo rápido y colaboro estrechamente con  clientes para
