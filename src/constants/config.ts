@@ -74,15 +74,15 @@ export const config: TConfig = {
       problemas del mundo real. ¡Trabajemos juntos para hacer realidad tus ideas!`,
     },
     experience: {
-      p: "Lo que he hecho hasta ahora",
+      p: "",
       h2: "Experiencia laboral",
     },
     feedbacks: {
-      p: "Qué dicen mis clientes y colaboradores",
+      p: " ",
       h2: "Testimonios.",
     },
     works: {
-      p: "Mi Trabajo",
+      p: "",
       h2: "Proyectos",
       content: `Los siguientes proyectos muestran mis habilidades y experiencia a través de
     Ejemplos del mundo real. Aqui una descripcion de cada proyecto con

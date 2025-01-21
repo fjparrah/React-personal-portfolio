@@ -37,33 +37,33 @@ import {
 export const navLinks: TNavLink[] = [
   {
     id: "about",
-    title: "About",
+    title: "Ver mas",
   },
   {
     id: "work",
-    title: "Work",
+    title: "Trabajos",
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "Contactame",
   },
 ];
 
 const services: TService[] = [
   {
-    title: "Web Developer",
+    title: "Desarrollador de software",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React Native Dev",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Backend Dev",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Creador de Contenido",
     icon: creator,
   },
 ];
