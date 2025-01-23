@@ -17,22 +17,19 @@ import {
   html,
   css,
   reactjs,
-  redux,
-  tailwind,
+   tailwind,
   nodejs,
   mongodb,
   git,
   figma,
-  docker,
-  meta,
+   meta,
   starbucks,
   tesla,
   shopify,
   carrent,
   jobit,
   tripguide,
-  threejs,
-} from "../assets";
+  } from "../assets";
 
 export const navLinks: TNavLink[] = [
   {
@@ -89,11 +86,7 @@ const technologies: TTechnology[] = [
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
+    {
     name: "Tailwind CSS",
     icon: tailwind,
   },
@@ -105,11 +98,7 @@ const technologies: TTechnology[] = [
     name: "MongoDB",
     icon: mongodb,
   },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
+   {
     name: "git",
     icon: git,
   },
@@ -117,10 +106,7 @@ const technologies: TTechnology[] = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
+ 
 ];
 
 const experiences: TExperience[] = [

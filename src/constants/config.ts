@@ -46,7 +46,7 @@ export const config: TConfig = {
   },
   hero: {
     name: "Francisco Parra",
-    p: ["Hola! soy Ingeniero Civil Industrial", "Data y Desarrollo de Software"],
+    p: ["Ingeniero Civil Industrial", "Data y Desarrollo de Software"],
   },
   contact: {
     p: "Ponte en contacto",
