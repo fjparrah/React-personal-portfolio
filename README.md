@@ -11,14 +11,9 @@
 ![deployment](https://img.shields.io/github/deployments/ladunjexa/reactjs18-3d-portfolio/Production?logo=vercel&label=Website)
 [![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio/badge.svg)](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio)
 
-## 🌐 Live Demo
-
-Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
-
 ## 📝 Description
 
-**3D Portfolio** is a well-designed and fully functional portfolio website that is built with
+Is a well-designed and fully functional portfolio website that is built with
 React.js and Three.js. It is a fully responsive website that works well on all devices.
 
 <details><summary><b>Folder Structure</b></summary>
@@ -305,15 +300,6 @@ possible:
 - [Prettier](https://prettier.io/)
 - [Vercel](https://vercel.com/)
 - [JavaScript Mastery](https://www.jsmastery.pro/)
-
-## 📞 Contact Us
-
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/ladunjexa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/lironabutbul)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/ladunjexa)
-[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/827996364331810816)
-
-<!-- [![Twitter](https://img.shields.io/twitter/follow/ladunjexa.svg?style=social)](https://twitter.com/intent/follow?screen_name=ladunjexa) -->
 
 ## 📋 License
 
