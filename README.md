@@ -249,32 +249,6 @@ You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## 🔧 Contributing
-
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/reactjs18-3d-portfolio)](https://github.com/ladunjexa/reactjs18-3d-portfolio/graphs/contributors)
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and
-create. Any contributions you make are **greatly appreciated**.
-
-To fix a bug or enhance an existing module, follow these steps:
-
-1. Fork the repo
-2. Create a new branch (`git checkout -b improve-feature`)
-3. Make the appropriate changes in the files
-4. Commit your changes (`git commit -am 'Improve feature'`)
-5. Push to the branch (`git push origin improve-feature`)
-6. Create a Pull Request 🎉
-
-### 📩 Bug / Feature Request
-
-If you find a bug (failure of a module to execute its intended function), kindly open an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new) by including the issue with a
-title and clear description.
-
-If you'd like to request a new function, feel free to do so by opening an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new). Please include sample
-queries and their corresponding results.
-
 ## 💎 Acknowledgements
 
 I'd like to express my gratitude to the following people who helped me with this project and made it
